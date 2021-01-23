@@ -1,0 +1,5 @@
+print('Hello, World!')
+print(3 + 4)
+print(7 * 7)
+print()
+print("The end", "or is it?", "Keep watching me to learn more about Python", 7)
